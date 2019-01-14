@@ -10,8 +10,8 @@
 ## アカウント
 
 - GitHub: [rookzeno](https://github.com/rookzeno)
-- Atcoder: [rookzeno](https://atcoder.jp/users/rookzeno)
-- Kaggle: [rookzeno](https://www.kaggle.com/rookzeno)
+- Atcoder: [rookzeno](https://atcoder.jp/users/rookzeno)(青)
+- Kaggle: [rookzeno](https://www.kaggle.com/rookzeno)(Expert)
 
 
 ## 開発環境
